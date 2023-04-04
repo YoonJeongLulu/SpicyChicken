@@ -9,5 +9,5 @@ node 14 버전 이상
 
 ## 실행 방법
 
-npm install
-npm start
+- npm install
+- npm start

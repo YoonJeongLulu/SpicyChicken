@@ -309,7 +309,7 @@ contract SpicyChicken is Context, Ownable {
     using SafeMath for uint256;
 
     uint256 private EGGS_TO_HATCH_1MINERS = 864000; //for final version should be seconds in a day
-    uint256 private ROUND_START_BNB = 1000000000000000000;
+    uint256 private ROUND_START_BNB = 500000000000000000;
     uint256 private ROUND_END_BNB = 100000000000000000;
     uint256 private PSN = 10000;
     uint256 private PSNH = 5000;
